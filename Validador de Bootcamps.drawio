@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" modified="2023-11-10T05:22:38.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="vzo6rDxF_18ht_VmjF_W" version="21.3.8" type="device" pages="3">
+  <diagram name="Inicio" id="l9tnNUQRSjZ2CrAFDo25">
+    <mxGraphModel dx="1077" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GjlPqHigPR6pHj71b7gj-1" value="- Lista de bootcamps&lt;br/&gt;&lt;br&gt;- Perfil del bootcamp&lt;br/&gt;&lt;br&gt;- Cuentas de usuarios&lt;br/&gt;&lt;br&gt;- Buscar bootcamps&lt;br/&gt;&lt;br&gt;- Ranking de Bootcamps&lt;br/&gt;- Reviews del Bootcamp&lt;br/&gt;&lt;br&gt;- Scraping de referencias&lt;br/&gt;&lt;br&gt;- Estado del Bootcamp (verificado o no)&lt;br/&gt;&lt;br&gt;- Backoffice administrador" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="547" y="90" width="280" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="GjlPqHigPR6pHj71b7gj-2" value="Usuarios" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GjlPqHigPR6pHj71b7gj-3" value="Bootcamps" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GjlPqHigPR6pHj71b7gj-4" value="Scraping" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GjlPqHigPR6pHj71b7gj-5" value="Backoffice" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="220" y="170" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GjlPqHigPR6pHj71b7gj-6" value="Ranking" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="350" y="90" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xGCZN64rS5vC_HMRKTSh" name="Diagrama">
+    <mxGraphModel dx="893" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8WqSejYYZmYYg1oaAJw9-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="100" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="8WqSejYYZmYYg1oaAJw9-2" value="Backend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="50" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8WqSejYYZmYYg1oaAJw9-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="100" width="290" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="8WqSejYYZmYYg1oaAJw9-4" value="Frontend" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="110" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lh3pCXPBYH9KBLb6H6zP-1" value="Usuarios" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ma_zcl5hG4Z-JmmzIDVf-1" value="Bootcamps" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ma_zcl5hG4Z-JmmzIDVf-2" value="Scraping" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ma_zcl5hG4Z-JmmzIDVf-3" value="Backoffice" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ma_zcl5hG4Z-JmmzIDVf-4" value="Ranking" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="50" y="305" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ma_zcl5hG4Z-JmmzIDVf-5" value="Arquitectura de Capas&lt;br&gt;&lt;br&gt;- controlador&lt;br&gt;- servicio&lt;br&gt;- respositorio&lt;br&gt;- domio (dto, response, model, interface)&lt;br&gt;&lt;br&gt;Tecnologías:&lt;br&gt;&lt;br&gt;- Typescript -&amp;gt; NestJS&lt;br&gt;- Base de datos -&amp;gt; PostgreSQL -&amp;gt; TypeORM&lt;br&gt;- Swagger&lt;br&gt;- Jest&lt;br&gt;- Docker&lt;br&gt;- AWS&lt;br&gt;- Jenkins | Github Actions&lt;br&gt;&lt;br&gt;Scraping:&lt;br&gt;&lt;br&gt;- Python -&amp;gt; Scrapy | Beautiful soup | Selenium" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="405" width="270" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ma_zcl5hG4Z-JmmzIDVf-7" value="Arquitectura de Capas&lt;br&gt;&lt;br&gt;- controlador&lt;br&gt;- servicio&lt;br&gt;- respositorio&lt;br&gt;- domio (dto, response, model, interface)&lt;br&gt;&lt;br&gt;Tecnologías:&lt;br&gt;&lt;br&gt;- Typescript -&amp;gt; React -&amp;gt; Vite&amp;nbsp;&lt;br&gt;- Cypress/Vitest&lt;br&gt;- Tailwind -&amp;nbsp;shadcn/ui - flowbite&lt;br&gt;- Manejo de estado -&amp;gt; Zustand&lt;br&gt;- Axios&lt;br&gt;- AWS Amplify" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="410" width="240" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ma_zcl5hG4Z-JmmzIDVf-8" value="Usuarios" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="395" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ma_zcl5hG4Z-JmmzIDVf-9" value="Bootcamps" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="525" y="150" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ma_zcl5hG4Z-JmmzIDVf-10" value="Backoffice" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="525" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ma_zcl5hG4Z-JmmzIDVf-11" value="Ranking" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="395" y="230" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Pwj5PTE5D3nYzFjmJfj2" name="Proceso">
+    <mxGraphModel dx="1302" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
